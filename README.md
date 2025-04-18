@@ -14,4 +14,3 @@ I'm not very good at English so let me know about [grammar mistakes](https://www
 ![eunsahng's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eunsahng&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---------------------------------------------
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunsahng)](https://github.com/anuraghazra/github-readme-stats)
